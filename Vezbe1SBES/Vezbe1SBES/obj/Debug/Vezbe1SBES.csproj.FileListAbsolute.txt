@@ -1,0 +1,9 @@
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\bin\Debug\Vezbe1SBES.exe.config
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\bin\Debug\Vezbe1SBES.exe
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\bin\Debug\Vezbe1SBES.pdb
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\bin\Debug\Contract.dll
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\bin\Debug\Contract.pdb
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\obj\Debug\Vezbe1SBES.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\obj\Debug\Vezbe1SBES.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\obj\Debug\Vezbe1SBES.exe
+C:\Users\TUF\Desktop\Vezbe1SBES\Vezbe1SBES\obj\Debug\Vezbe1SBES.pdb

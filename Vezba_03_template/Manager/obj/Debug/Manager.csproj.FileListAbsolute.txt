@@ -1,0 +1,6 @@
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Manager\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Manager\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Manager\obj\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Manager\obj\Debug\Manager.pdb

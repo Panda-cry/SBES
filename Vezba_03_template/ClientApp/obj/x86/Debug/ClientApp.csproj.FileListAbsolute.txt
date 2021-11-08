@@ -1,0 +1,11 @@
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x86\Debug\ClientApp.pdb

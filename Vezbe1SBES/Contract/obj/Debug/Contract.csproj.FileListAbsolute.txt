@@ -1,0 +1,6 @@
+C:\Users\TUF\Desktop\Vezbe1SBES\Contract\bin\Debug\Contract.dll
+C:\Users\TUF\Desktop\Vezbe1SBES\Contract\bin\Debug\Contract.pdb
+C:\Users\TUF\Desktop\Vezbe1SBES\Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezbe1SBES\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezbe1SBES\Contract\obj\Debug\Contract.dll
+C:\Users\TUF\Desktop\Vezbe1SBES\Contract\obj\Debug\Contract.pdb

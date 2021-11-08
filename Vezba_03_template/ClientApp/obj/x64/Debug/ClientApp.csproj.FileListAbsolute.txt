@@ -1,0 +1,22 @@
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\x64\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\x64\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\x64\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\x64\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\x64\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\bin\x64\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x64\Debug\ClientApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x64\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x64\Debug\ClientApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x64\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\ClientApp\obj\x64\Debug\ClientApp.pdb
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\bin\x64\Debug\ClientApp.exe
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\bin\x64\Debug\ClientApp.pdb
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\bin\x64\Debug\Contracts.dll
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\bin\x64\Debug\Manager.dll
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\bin\x64\Debug\Contracts.pdb
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\bin\x64\Debug\Manager.pdb
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\obj\x64\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\obj\x64\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\obj\x64\Debug\ClientApp.csproj.CopyComplete
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\obj\x64\Debug\ClientApp.exe
+C:\Users\TUF\Desktop\Vezba_03_template\ClientApp\obj\x64\Debug\ClientApp.pdb

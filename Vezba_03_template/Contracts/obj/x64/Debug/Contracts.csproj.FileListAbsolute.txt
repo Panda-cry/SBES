@@ -1,0 +1,12 @@
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Contracts\bin\x64\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Contracts\bin\x64\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Contracts\obj\x64\Debug\Contracts.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Contracts\obj\x64\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_template\Vezba_4\Exercise_02\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\TUF\Desktop\Vezba_03_template\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\TUF\Desktop\Vezba_03_template\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\TUF\Desktop\Vezba_03_template\Contracts\obj\x64\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba_03_template\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba_03_template\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\TUF\Desktop\Vezba_03_template\Contracts\obj\x64\Debug\Contracts.pdb
