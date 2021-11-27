@@ -1,0 +1,23 @@
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\bin\Debug\SecurityManager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\bin\Debug\SecurityManager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\obj\Debug\SecurityManager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\SecurityManager\obj\Debug\SecurityManager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\bin\Debug\SecurityManager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\bin\Debug\SecurityManager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\obj\Debug\SecurityManager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\SecurityManager\obj\Debug\SecurityManager.pdb

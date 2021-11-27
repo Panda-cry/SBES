@@ -1,0 +1,30 @@
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\bin\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\bin\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_4_resenje\Vezba_4\ClientApp\bin\Debug\ClientApp.exe.config
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\bin\Debug\ClientApp.exe.config
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\bin\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\bin\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 5 - RBAC\Vezba_5_resenje\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\bin\Debug\Contracts.dll
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.pdb

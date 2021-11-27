@@ -1,0 +1,8 @@
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\bin\Debug\ServiceApp.exe
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\bin\Debug\ServiceApp.pdb
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\bin\Debug\Contracts.dll
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\bin\Debug\Contracts.pdb
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\obj\x86\Debug\ServiceApp.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\obj\x86\Debug\ServiceApp.exe
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ServiceApp\obj\x86\Debug\ServiceApp.pdb

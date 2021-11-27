@@ -1,0 +1,9 @@
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\bin\Debug\Contracts.dll
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\TUF\Desktop\Vezba 04 - Osnove autorizacije\Vezba_4\ClientApp\obj\x86\Debug\ClientApp.pdb
