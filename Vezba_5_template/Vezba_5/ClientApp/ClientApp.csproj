@@ -62,13 +62,13 @@
     <Compile Include="WCFClient.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Contracts\Contracts.csproj">
-      <Project>{74B0D2F1-2901-4C41-A8C1-E86D01BE2F1C}</Project>
-      <Name>Contracts</Name>
-    </ProjectReference>
+    <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
+    <ProjectReference Include="..\..\..\..\..\SBES_Projekat\Contract\Contract.csproj">
+      <Project>{7f08734c-5c6c-44b4-832b-a9975a0ca317}</Project>
+      <Name>Contract</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -28,3 +28,5 @@ C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.
 C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
 C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.exe
 C:\Users\TUF\Desktop\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\TUF\Desktop\SIgurnostIBezbednost\SBES\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\SIgurnostIBezbednost\SBES\Vezba_5_template\Vezba_5\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
