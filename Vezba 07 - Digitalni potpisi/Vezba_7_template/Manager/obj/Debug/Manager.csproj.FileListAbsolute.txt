@@ -1,0 +1,35 @@
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\bin\Debug\Manager.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\bin\Debug\Manager.pdb
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\obj\Debug\Manager.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\obj\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_3_resenje(sa digitalnim potpisima)\Vezba_3_resenje\Vezba_02_resenje\Manager\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_3_resenje(sa digitalnim potpisima)\Vezba_3_resenje\Vezba_02_resenje\Manager\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_3_resenje(sa digitalnim potpisima)\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_3_resenje(sa digitalnim potpisima)\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_3_resenje(sa digitalnim potpisima)\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_3_resenje(sa digitalnim potpisima)\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezbe 7 - Digitalni potpisi\Vezba_6_resenje_Z2\Vezba_7_template\Manager\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezbe 7 - Digitalni potpisi\Vezba_6_resenje_Z2\Vezba_7_template\Manager\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezbe 7 - Digitalni potpisi\Vezba_6_resenje_Z2\Vezba_7_template\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezbe 7 - Digitalni potpisi\Vezba_6_resenje_Z2\Vezba_7_template\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezbe 7 - Digitalni potpisi\Vezba_6_resenje_Z2\Vezba_7_template\Manager\obj\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezbe 7 - Digitalni potpisi\Vezba_6_resenje_Z2\Vezba_7_template\Manager\obj\Debug\Manager.pdb
+C:\Users\Zorana\Downloads\Vezba_7_template\Manager\bin\Debug\Manager.dll
+C:\Users\Zorana\Downloads\Vezba_7_template\Manager\bin\Debug\Manager.pdb
+C:\Users\Zorana\Downloads\Vezba_7_template\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Vezba_7_template\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Vezba_7_template\Manager\obj\Debug\Manager.dll
+C:\Users\Zorana\Downloads\Vezba_7_template\Manager\obj\Debug\Manager.pdb
+C:\Users\TUF\Desktop\Vezba 07 - Digitalni potpisi\Vezba_7_template\Manager\bin\Debug\Manager.dll
+C:\Users\TUF\Desktop\Vezba 07 - Digitalni potpisi\Vezba_7_template\Manager\bin\Debug\Manager.pdb
+C:\Users\TUF\Desktop\Vezba 07 - Digitalni potpisi\Vezba_7_template\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba 07 - Digitalni potpisi\Vezba_7_template\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba 07 - Digitalni potpisi\Vezba_7_template\Manager\obj\Debug\Manager.dll
+C:\Users\TUF\Desktop\Vezba 07 - Digitalni potpisi\Vezba_7_template\Manager\obj\Debug\Manager.pdb

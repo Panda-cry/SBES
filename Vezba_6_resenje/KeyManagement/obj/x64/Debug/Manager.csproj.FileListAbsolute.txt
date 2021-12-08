@@ -1,0 +1,16 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01_R\KeyManagement\bin\x64\Debug\KeyManagement.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01_R\KeyManagement\bin\x64\Debug\KeyManagement.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01_R\KeyManagement\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01_R\KeyManagement\obj\x64\Debug\KeyManagement.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01_R\KeyManagement\obj\x64\Debug\KeyManagement.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01\01_Example_ECB\KeyManagement\bin\x64\Debug\KeyManagement.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01\01_Example_ECB\KeyManagement\bin\x64\Debug\KeyManagement.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01\01_Example_ECB\KeyManagement\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01\01_Example_ECB\KeyManagement\obj\x64\Debug\KeyManagement.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\01 - Uvod, Enkripcija\01 Exercise\Example_01\01_Example_ECB\KeyManagement\obj\x64\Debug\KeyManagement.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 6 - Kriptografija i digitalni potpisi\Vezba_06_Z12_template New\KeyManagement\bin\x64\Debug\KeyManagement.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 6 - Kriptografija i digitalni potpisi\Vezba_06_Z12_template New\KeyManagement\bin\x64\Debug\KeyManagement.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 6 - Kriptografija i digitalni potpisi\Vezba_06_Z12_template New\KeyManagement\obj\x64\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 6 - Kriptografija i digitalni potpisi\Vezba_06_Z12_template New\KeyManagement\obj\x64\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 6 - Kriptografija i digitalni potpisi\Vezba_06_Z12_template New\KeyManagement\obj\x64\Debug\KeyManagement.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 6 - Kriptografija i digitalni potpisi\Vezba_06_Z12_template New\KeyManagement\obj\x64\Debug\KeyManagement.pdb

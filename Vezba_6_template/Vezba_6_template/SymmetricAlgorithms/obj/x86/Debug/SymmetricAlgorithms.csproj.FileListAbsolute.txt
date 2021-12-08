@@ -1,0 +1,20 @@
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.exe.config
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\bin\Debug\KeyManagement.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\bin\Debug\KeyManagement.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.pdb
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.exe.config
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.exe
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.pdb
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\bin\Debug\KeyManagement.dll
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\bin\Debug\KeyManagement.pdb
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.csproj.CopyComplete
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.exe
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\SymmetricAlgorithms\obj\x86\Debug\SymmetricAlgorithms.pdb

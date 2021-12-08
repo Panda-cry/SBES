@@ -1,0 +1,10 @@
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\KeyManagement\bin\Debug\KeyManagement.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\KeyManagement\bin\Debug\KeyManagement.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\KeyManagement\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\KeyManagement\obj\Debug\KeyManagement.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 6 - Kriptografija\Vezba_6_template\KeyManagement\obj\Debug\KeyManagement.pdb
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\KeyManagement\bin\Debug\KeyManagement.dll
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\KeyManagement\bin\Debug\KeyManagement.pdb
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\KeyManagement\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\KeyManagement\obj\Debug\KeyManagement.dll
+C:\Users\TUF\Desktop\Vezba_6_template\Vezba_6_template\KeyManagement\obj\Debug\KeyManagement.pdb
